@@ -71,7 +71,3 @@ const berpConsole = new ConsoleOutput()
 export {
   berpConsole,
 }
-
-berpConsole.out((data) => {
-  console.log(data)
-})
